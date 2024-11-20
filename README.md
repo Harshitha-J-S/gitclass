@@ -1,0 +1,2 @@
+# gitclass
+HELLO WORLD
