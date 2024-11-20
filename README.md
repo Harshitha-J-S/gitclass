@@ -1,2 +1,1 @@
-# gitclass
-HELLO WORLD
+# HELLO WORLD
